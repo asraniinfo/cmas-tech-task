@@ -1,0 +1,3 @@
+1 2 good 4 systems CMAS 7 8 CMAS systems 11 CMAS good 14 CMASsystems 16 17 CMAS 19 systems CMAS 22 good CMAS systems 26 CMAS 28 29 good good;{CMAS=7, systems=4, CMASsystems=1, good=5, integer=14}
+1 2 good 4 systems CMAS 7 8 CMAS systems 11 CMAS good 14 CMASsystems 16 17 CMAS 19 systems CMAS 22 good CMAS systems 26 CMAS 28 29 good good good good good good good good good good systems 41;{CMAS=7, systems=5, CMASsystems=1, good=13, integer=15}
+1 2 good 4 systems CMAS 7 8 CMAS systems 11 CMAS good 14 CMASsystems 16 17 CMAS 19 systems;{CMAS=4, systems=3, CMASsystems=1, good=2, integer=10}
